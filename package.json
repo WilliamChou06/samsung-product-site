@@ -1,0 +1,13 @@
+{
+  "name": "samsung-product-site",
+  "version": "1.0.0",
+  "description": "samsung-product-site",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "William Chou",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
